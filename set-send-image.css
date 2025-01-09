@@ -1,8 +1,0 @@
-/* Email Image... */
-#context-sendimage, 
-
-/* Set Image as Desktop Background... (and preceding separator) */
-#context-sep-setbackground, #context-setDesktopBackground
-{
-  display: none !important;
-}
